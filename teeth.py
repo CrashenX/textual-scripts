@@ -4,7 +4,6 @@ import sys
 team = ["aline",
         "morgabra",
         "clif_h",
-        "ChrisMead",
         "JayF",
         "jroll",
         "mariojv",
