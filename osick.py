@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys
 
-team = [ "lone-rager",
+team = ["lone-rager",
         "hurricanerix",
         "JayF",
         "jroll",
