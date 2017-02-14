@@ -6,8 +6,8 @@ team = ["lone-rager",
         "JayF",
         "jroll",
         "mariojv",
-        "Nadeem",
         "rosmaita",
+        "stevelle",
         ]
 
 try:
