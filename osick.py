@@ -1,13 +1,15 @@
 #!/usr/bin/env python
 import sys
 
-team = ["lone-rager",
+team = ["andymccr",
+        "lone-rager",
         "hurricanerix",
         "JayF",
+        "jimbaker",
         "jroll",
         "mariojv",
         "rosmaita",
-        "stevelle",
+        "thomasem",
         ]
 
 try:
